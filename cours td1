@@ -17,6 +17,10 @@ Etapes:
                +
 -bytecode garde dans un fichier .class
 
+Rappel sur tableau du prof:
+  -Commande pour compiler votre projet en ligne de commande, depuis le dossier Projet_BDDA... avec javac
+  -et meme chose pour le lancer avec un chemin relatif pour BD
+
 -avec Terminal:
     ls: affichage une liste des dossier
     cd  : arriver le dossier
