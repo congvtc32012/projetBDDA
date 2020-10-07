@@ -27,9 +27,11 @@ Rappel sur tableau du prof:
  ou cd (chemin vers dossier) :
     cd ..     :retourne un chemin précédent 
     
-    javac -d Code/MiniSGBD_VO_Boujemaa/bin Code/MiniSGBD_VO_Boujemaa/src/*.java
-    
+    Toujours dans chemin vers Projet_BDDA_VO_Boujemaa: tape 2 lignes de commande suivant
+    javac -d Code/MiniSGBD_VO_Boujemaa/bin Code/MiniSGBD_VO_Boujemaa/src/*.java 
     java -cp Code/MiniSGBD_VO_Boujemaa/bin Main BD
+    
+- 
     
 -but: application la consolde: afficher les textes
       tape d'une commande de l'utilisateur -> affichage
