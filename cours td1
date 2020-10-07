@@ -10,11 +10,11 @@ Etapes:
     
 - ajouter la classe main dans MiniSGBD....
     + cree un methode main
-    Dans main:+ println(args[0]);       // avec 0 est un case dans un tableau args
+    Dans main:+ println(args[0]);       // 
                -> trouve erreur 
-               ->solution: run configurations -> argument -> ajoute les arguments dans "program arguments" 
+               ->solution: run configurations -> argument -> ajoute le chemin vers sous-projet DB dans "program arguments" 
                
-               + chemins vers script
+               +
 
 -but: application la consolde: afficher les textes
       tape d'une commande de l'utilisateur -> affichage
