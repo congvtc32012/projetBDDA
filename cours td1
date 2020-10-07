@@ -1,2 +1,5 @@
 Bonjour,
-
+Etapes:
+- creer un dossier 'Projet_BDDA_nom1_nom2' sur votre machine
+- ajoute 2 sous-dossier dans la même projet principal: Code, BD
+- Lancer Eclipse, creer un projet en Eclipse qui s'appelle "MiniSGBD_nom1_nom2" dans le sous-dossier "Code"
