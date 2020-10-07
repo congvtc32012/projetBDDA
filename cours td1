@@ -21,12 +21,16 @@ Rappel sur tableau du prof:
   -Commande pour compiler votre projet en ligne de commande, depuis le dossier Projet_BDDA... avec javac
   -et meme chose pour le lancer avec un chemin relatif pour BD
 
--avec Terminal:
-    ls: affichage une liste des dossier
-    cd  : arriver le dossier
+-avec Terminal: (document supplémentaire pour moi: https://hostingviet.vn/cac-lenh-co-ban-trong-ubuntu)
+    ls     :affichage une liste des dossier
+    cd      :arriver le dossier
  ou cd (chemin vers dossier) :
-    cd ..  :retourne un chemin précédent 
-
+    cd ..     :retourne un chemin précédent 
+    
+    javac -d Code/MiniSGBD_VO_Boujemaa/bin Code/MiniSGBD_VO_Boujemaa/src/*.java
+    
+    java -cp Code/MiniSGBD_VO_Boujemaa/bin Main BD
+    
 -but: application la consolde: afficher les textes
       tape d'une commande de l'utilisateur -> affichage
       
