@@ -28,8 +28,11 @@ Rappel sur tableau du prof:
     cd ..     :retourne un chemin précédent 
     
     Toujours dans chemin vers Projet_BDDA_VO_Boujemaa: tape 2 lignes de commande suivant
+    +ajoute un fichier plein texte s'appelle "script.sh" directement dans le dossier Projet_BDDA = document texte, vous y mettez les 2 commandes:
+     
     javac -d Code/MiniSGBD_VO_Boujemaa/bin Code/MiniSGBD_VO_Boujemaa/src/*.java 
     java -cp Code/MiniSGBD_VO_Boujemaa/bin Main BD
+    
     
 - 
     
