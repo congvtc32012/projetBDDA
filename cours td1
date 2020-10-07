@@ -10,11 +10,18 @@ Etapes:
     
 - ajouter la classe main dans MiniSGBD....
     + cree un methode main
-    Dans main:+ println(args[0]);       // 
+    Dans main:+ System.out.println(args[0]);       // 
                -> trouve erreur 
                ->solution: run configurations -> argument -> ajoute le chemin vers sous-projet DB dans "program arguments" 
                
                +
+-bytecode garde dans un fichier .class
+
+-avec Terminal:
+    ls: affichage une liste des dossier
+    cd  : arriver le dossier
+ ou cd (chemin vers dossier) :
+    cd ..  :retourne un chemin précédent 
 
 -but: application la consolde: afficher les textes
       tape d'une commande de l'utilisateur -> affichage
