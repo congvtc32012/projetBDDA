@@ -3,3 +3,20 @@ Etapes:
 - creer un dossier 'Projet_BDDA_nom1_nom2' sur votre machine
 - ajoute 2 sous-dossier dans la même projet principal: Code, BD
 - Lancer Eclipse, creer un projet en Eclipse qui s'appelle "MiniSGBD_nom1_nom2" dans le sous-dossier "Code"
+
+* scripts: fichier texte
+    chemin relatif
+    
+    
+- ajouter la classe main dans MiniSGBD....
+    + cree un methode main
+    Dans main:+ println(args[0]);       // avec 0 est un case dans un tableau args
+               -> trouve erreur 
+               ->solution: run configurations -> argument -> ajoute les arguments dans "program arguments" 
+               
+               + chemins vers script
+
+-but: application la consolde: afficher les textes
+      tape d'une commande de l'utilisateur -> affichage
+      
+- argument: chemin vers 
