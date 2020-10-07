@@ -16,17 +16,22 @@ Etapes:
                
                +
 -bytecode garde dans un fichier .class
-
+----------------------------------------- ----------------------------------------- ----------------------------------------- 
 Rappel sur tableau du prof:
   -Commande pour compiler votre projet en ligne de commande, depuis le dossier Projet_BDDA... avec javac
   -et meme chose pour le lancer avec un chemin relatif pour BD
-
+  
+  
+----------------------------------------- ----------------------------------------- ----------------------------------------- 
 -avec Terminal: (document supplémentaire pour moi: https://hostingviet.vn/cac-lenh-co-ban-trong-ubuntu)
     ls     :affichage une liste des dossier
     cd      :arriver le dossier
  ou cd (chemin vers dossier) :
     cd ..     :retourne un chemin précédent 
-    
+  
+  
+  
+---------------------------------------------------------------------------------- -----------------------------------------  
     Toujours dans chemin vers Projet_BDDA_VO_Boujemaa: 
     
     +ajoute un fichier plein texte s'appelle "script.sh" directement dans le dossier Projet_BDDA = document texte, vous y mettez les 2 commandes:
@@ -40,8 +45,7 @@ Rappel sur tableau du prof:
     
     
 - 
-    
+   ----------------------------------------- ----------------------------------------- -----------------------------------------  
 -but: application la consolde: afficher les textes
       tape d'une commande de l'utilisateur -> affichage
-      
-- argument: chemin vers 
+ 
