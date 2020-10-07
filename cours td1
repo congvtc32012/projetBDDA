@@ -27,11 +27,16 @@ Rappel sur tableau du prof:
  ou cd (chemin vers dossier) :
     cd ..     :retourne un chemin précédent 
     
-    Toujours dans chemin vers Projet_BDDA_VO_Boujemaa: tape 2 lignes de commande suivant
+    Toujours dans chemin vers Projet_BDDA_VO_Boujemaa: 
+    
     +ajoute un fichier plein texte s'appelle "script.sh" directement dans le dossier Projet_BDDA = document texte, vous y mettez les 2 commandes:
      
     javac -d Code/MiniSGBD_VO_Boujemaa/bin Code/MiniSGBD_VO_Boujemaa/src/*.java 
     java -cp Code/MiniSGBD_VO_Boujemaa/bin Main BD
+    
+    ->> pour exécuter script: 
+    En suite, dans le terminal dans le dossier Projet_BDDA:   chmod +x script.sh
+    Vous pouvez exécuter:     ./script.sh
     
     
 - 
