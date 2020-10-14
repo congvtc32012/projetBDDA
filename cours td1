@@ -4,8 +4,10 @@ Etapes:
 - ajoute 2 sous-dossier dans la même projet principal: Code, BD
 - Lancer Eclipse, creer un projet en Eclipse qui s'appelle "MiniSGBD_nom1_nom2" dans le sous-dossier "Code"
 
-* scripts: fichier texte
+* scripts: fichier texte sous format .bat
     chemin relatif
+    code : javac -d Code/MiniSGBD_VO_BOUJEMAA/bin Code/MiniSGBD_VO_BOUJEMAA/src/*.java
+           java -cp Code/MiniSGBD_VO_BOUJEMAA/bin Main DB
     
     
 - ajouter la classe main dans MiniSGBD....
